@@ -8,25 +8,25 @@ module.exports = {
     /**
      * bot details and parameters
      */
-    botname: process.env.BotName || "Qᴜᴇᴇɴ ᴀɴʏᴀ ᴠ2",
-    footer: process.env.Footer || "© 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐀𝐧𝐲𝐚 𝐁𝐨𝐭",
-    prefa: process.env.Prefix || "-",
+    botname: process.env.BotName || "𝕋ℝ𝔼𝔸𝕊𝕌ℝ𝔼𝟜𝟘𝟜𝔻𝔸ℕ𝔾𝔼ℝ",
+    footer: process.env.Footer || "© 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝕋ℝ𝔼𝔸𝕊𝕌ℝ𝔼",
+    prefa: process.env.Prefix || ".",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
-    instagramId: process.env.Insta || "3.69_pika",
+    ownername: process.env.Owner_Name || "Treasure",
+    ownernumber: process.env.Owner_Number || "2347049598822",
+    instagramId: process.env.Insta || "FamzyHacks",
 
     /**
      * other details and parameters
      */
-    author: process.env.Author || "𝐏𝐢𝐤𝐚𝐁𝐨𝐭𝐳 🌚🌙",
-    packname: process.env.PackName || "𝕼𝖚𝖊𝖊𝖓 𝕬𝖓𝖞𝖆 𝖁2 𝕾𝖙𝖎𝖈𝖐𝖊𝖗 𝕻𝖆𝖈𝖐 🪀",
-    socialLink: process.env.Web || "https://github.com/PikaBotz",
-    groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
+    author: process.env.Author || "𝕋ℝ𝔼𝔸𝕊𝕌ℝ𝔼𝟜𝟘𝟜𝔻𝔸ℕ𝔾𝔼ℝ 🌚🌙",
+    packname: process.env.PackName || "𝕋ℝ𝔼𝔸𝕊𝕌ℝ𝔼𝟜𝟘𝟜𝔻𝔸ℕ𝔾𝔼ℝ 🪀",
+    socialLink: process.env.Web || "https://github.com/FamzyHack",
+    groupLink: process.env.GcLink || "https://chat.whatsapp.com/Dpm9TcQotmrHjw8UEpzsmH",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: Number(process.env.Cooldown_Timer_Seconds) || 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
